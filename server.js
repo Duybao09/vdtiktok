@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // 🔐 ĐỔI KEY Ở ĐÂY
-const API_KEY = "htrang245"
+const API_KEY = "htrang245";
 
 app.use(cors());
 
